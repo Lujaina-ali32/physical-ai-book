@@ -1,18 +1,19 @@
 ---
-id: intro
-title: Introduction to Physical AI & Humanoid Robotics
+title: Introduction
 ---
 
-Welcome to the Physical AI & Humanoid Robotics Course!
+# Introduction to Physical AI
 
-Is book mein aap sikhain ge:
+Physical AI ka matlab hota hai Artificial Intelligence jo real world machines ke sath kaam karti hai.
 
-- Physical AI kya hota hai
-- ROS 2 (Robot Operating System)
+Is book mein hum seekhenge:
+
+- Physical AI
+- Humanoid Robots
+- Sensors
+- ROS2
 - Gazebo Simulation
-- Unity 3D Visualization
-- NVIDIA Isaac AI
-- Vision-Language-Action Robotics
-- Humanoid Robots ka control
-
-Aao shuru karte hain robotics ki duniya! 🤖⚙️
+- NVIDIA Isaac
+- Unity
+- Conversational AI
+- Vision Language Action (VLA)
