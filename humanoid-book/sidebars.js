@@ -9,6 +9,9 @@ module.exports = {
     "isaac",
     "unity",
     "conversational",
-    "vla"
+    "vla",
+    'spec-kit-plus',
+'cloud',
+
   ],
 };
