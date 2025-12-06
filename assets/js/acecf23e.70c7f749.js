@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkhumanoid_book=globalThis.webpackChunkhumanoid_book||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
